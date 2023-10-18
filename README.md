@@ -1,5 +1,4 @@
 # Irrigation-system-using-LoRa-technology
-# LoRa-Powered Smart Irrigation System
 
 
 ## Overview
