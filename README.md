@@ -4,7 +4,7 @@
 ## Overview
 
 Welcome to our Smart Irrigation System powered by LoRa technology! This project revolutionizes traditional agriculture practices by incorporating long-range wireless communication for efficient irrigation control.
-This innovative project utilizes the SX1278 model of LoRa for establishing long-range wireless communication between two Arduino UNO boards. The transmission Arduino is connected to a Raspberry Pi through serial communication, and the Raspberry Pi is integrated with a programmable logic controller (PLC) that sends specific commands. The Raspberry Pi transmits these commands to the transmission Arduino via serial communication, and the latter uses the LoRa SX1278 module to transmit these commands to the receiving Arduino.
+This innovative project uses the SX1278 model of LoRa for establishing long-range wireless communication between two Arduino UNO boards. The transmission Arduino is connected to a Raspberry Pi through serial communication, and the Raspberry Pi is integrated with a programmable logic controller (PLC) that sends specific commands. The Raspberry Pi transmits these commands to the transmission Arduino via serial communication, and the latter uses the LoRa SX1278 module to transmit these commands to the receiving Arduino.
 
 ## Key Features
 
